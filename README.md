@@ -5,8 +5,17 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/marcus_silveira)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/silveira_marcus_/)
 
-![marcus-silveira /
-](https://github-readme-stats.vercel.app/api?username=marcus-silveira&show_icons=true&theme=radical)
+## Sobre mim
+<ul>
+<li> <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bc.png" alt="mala" height="15px" > Estagiário na Câmara Municipal de Porto Alegre</li>
+<li> <img src="https://cdn-icons-png.flaticon.com/512/1822/1822899.png" alt="mala" height="15px" > back-end developer with Pyhton and Django FrameWork</li>
+<li> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="mala" height="15px" > Estudando JavaScript</li>
+</ul>
+
+<div>
+    <img height="180em" src='https://github-readme-stats.vercel.app/api?username=marcus-silveira&show_icons=true&theme=radical' style="max-width: 100%;">
+    <img height="180em" src='https://github-readme-stats.vercel.app/api/top-langs/?username=marcus-silveira&layout=compact&amp;langs_count=7&amp;theme=radical'style="max-width: 100%;">
+</div>
 
 ## Tecnologias com as quais eu trabalho
 
