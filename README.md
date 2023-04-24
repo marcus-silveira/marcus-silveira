@@ -11,7 +11,7 @@
 <ul>
 <li> <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bc.png" alt="mala" height="15px" > Estagiário na Câmara Municipal de Porto Alegre</li>
 <li> <img src="https://cdn-icons-png.flaticon.com/512/1822/1822899.png" alt="mala" height="15px" > back-end developer with Pyhton and Django FrameWork</li>
-<li> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="mala" height="15px" > Estudando JavaScript</li>
+<li> <img src="https://icons8.com/icon/44442/golang" alt="mala" height="15px" > Estudando Golang</li>
 </ul>
 
 <div>
