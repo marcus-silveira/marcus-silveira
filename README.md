@@ -2,20 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Fala+dev,+eu+sou+Marcus+Silveira!;Seja+bem+vindo(a)+ao+meu+Github!;Fala+dev,+eu+sou+Rafael+Lima!;Seja+bem+vindo(a)+ao+meu+Github!;Fala+dev,+eu+sou+Rafael+Lima!;Seja+bem+vindo(a)+ao+meu+Github!;&font=Fira%20Code&weight=600&size=32&center=true&color=0FB123&width=635&height=150&duration=4000&pause=1000">
 </p>
 
-  <div style="display: inline-block"  align="center"><br>
-    <img height="250em" src="https://i.redd.it/ijv2satyv5651.png" align="center" alt="Imagem laptop com legenda: developer" >
-  
-  <br><br>
-  </div>
-  
-- 🔭 Este é meu portifólio que contém a minha história como Desenvolvedor! 🚀🚀
-- 🐍 Trabalho com Python e PHP no Backend
-- 🌱 No momento estou me especializando em Node.js, NestJS, Express.js e Prisma.js ✏️💻
-- ⚡ Curiosidades sobre mim: 
-1. Adoro assistir animes <img height='15' width='20' alt='pokemon' src='https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Pok%C3%A9_Ball_icon.svg/768px-Pok%C3%A9_Ball_icon.svg.png' >
-2. Gamer nas horas vagas 🎮
-3. Sou Oficial da reserva do Exército Brasileiro 💣 
-<br>
+
 
 <div align="center">
   <a href="https://github.com/marcus-silveira">
@@ -44,7 +31,20 @@
  </div>
  </div>
 </div>
- 
+   <div style="display: inline-block"  align="center"><br>
+<!--     <img height="250em" src="https://i.redd.it/ijv2satyv5651.png" align="center" alt="Imagem laptop com legenda: developer" >
+   -->
+  <br><br>
+  </div>
+  
+- 🔭 Este é meu portifólio que contém a minha história como Desenvolvedor! 🚀🚀
+- 🐍 Trabalho com Python e PHP no Backend
+- 🌱 No momento estou me especializando em Node.js, NestJS, Express.js e Prisma.js ✏️💻
+- ⚡ Curiosidades sobre mim: 
+1. Adoro assistir animes <img height='15' width='20' alt='pokemon' src='https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Pok%C3%A9_Ball_icon.svg/768px-Pok%C3%A9_Ball_icon.svg.png' >
+2. Gamer nas horas vagas 🎮
+3. Sou Oficial da reserva do Exército Brasileiro 💣 
+<br>
   
 ##
 
