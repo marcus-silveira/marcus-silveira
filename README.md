@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Fala+dev,+eu+sou+Marcus+Silveira!;Seja+bem+vindo(a)+ao+meu+Github!;Fala+dev,+eu+sou+Rafael+Lima!;Seja+bem+vindo(a)+ao+meu+Github!;Fala+dev,+eu+sou+Rafael+Lima!;Seja+bem+vindo(a)+ao+meu+Github!;&font=Fira%20Code&weight=600&size=32&center=true&color=0FB123&width=635&height=150&duration=4000&pause=1000">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Fala+dev,+eu+sou+Marcus+Silveira!;Seja+bem+vindo(a)+ao+meu+Github!;Fala+dev,+eu+sou+Marcus+Silveira!;Seja+bem+vindo(a)+ao+meu+Github!;Fala+dev,+eu+sou+Marcus+Silveira!;Seja+bem+vindo(a)+ao+meu+Github!;&font=Fira%20Code&weight=600&size=32&center=true&color=0FB123&width=635&height=150&duration=4000&pause=1000">
 </p>
 
 
