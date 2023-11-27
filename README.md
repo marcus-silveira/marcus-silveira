@@ -38,8 +38,8 @@
   </div>
   
 - 🔭 Este é meu portifólio que contém a minha história como Desenvolvedor! 🚀🚀
-- 🐍 Trabalho com Python e PHP no Backend
-- 🌱 No momento estou me especializando em Node.js, NestJS, Express.js e Prisma.js ✏️💻
+- 🐍 Trabalho com TypeScript, C# e Python no Backend
+- 🌱 No momento estou me especializando em NestJS e Prisma.js com uso de Microsserviçoes✏️💻
 - ⚡ Curiosidades sobre mim: 
 1. Adoro assistir animes <img height='15' width='20' alt='pokemon' src='https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Pok%C3%A9_Ball_icon.svg/768px-Pok%C3%A9_Ball_icon.svg.png' >
 2. Gamer nas horas vagas 🎮
