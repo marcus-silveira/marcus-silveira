@@ -43,7 +43,7 @@ Experience with unit testing and integration testing in C# using XUnit and NUnit
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcus-silveira&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)
 <br>
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=marcus-silveira&theme=midnight-purple&hide_border=false)
+![GitHub Streak Stats]([https://github-readme-streak-stats.herokuapp.com/?user=marcus-silveira&theme=midnight-purple&hide_border=false](https://github-readme-streak-stats.herokuapp.com/?user=marcus-silveira&theme=midnight-purple&hide_border=false))
 <br>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcus-silveira&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
