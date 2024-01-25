@@ -1,57 +1,54 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Fala+dev,+eu+sou+Marcus+Silveira!;Seja+bem+vindo(a)+ao+meu+Github!;Fala+dev,+eu+sou+Marcus+Silveira!;Seja+bem+vindo(a)+ao+meu+Github!;Fala+dev,+eu+sou+Marcus+Silveira!;Seja+bem+vindo(a)+ao+meu+Github!;&font=Fira%20Code&weight=600&size=32&center=true&color=0FB123&width=635&height=150&duration=4000&pause=1000">
-</p>
-
-
-
 <div align="center">
-  <a href="https://github.com/marcus-silveira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcus-silveira&theme=dracula&show_icons=true&hide_border=true&count_private=false"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=marcus-silveira&theme=dracula&hide_border=true"/>
-  <img height='180em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=marcus-silveira&theme=dracula&show_icons=true&hide_border=true&layout=compact' />
-</div>
- 
-  <div style="display: inline-block"  align="center"><br>
-  <img align="center" alt="Dalacorte-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-  <img align="center" alt="Dalacorte-Django" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg">
-  <img align="center" alt="Dalacorte-Flask" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg">
-        <img align="center" alt="Dalacorte-Flask" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
 
-<img align="center" alt="Dalacorte-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+## 💫 Hello! My name is Marcus
 
-  <img align="center" alt="Dalacorte-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Dalacorte-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Dalacorte-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Dalacorte-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Dalacorte-MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="Dalacorte-MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg">
-  <img align="center" alt="Dalacorte-MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Dalacorte-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="Dalacorte-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
- </div>
- </div>
-</div>
-   <div style="display: inline-block"  align="center"><br>
-<!--     <img height="250em" src="https://i.redd.it/ijv2satyv5651.png" align="center" alt="Imagem laptop com legenda: developer" >
-   -->
-  <br><br>
-  </div>
-  
-- 🔭 Este é meu portifólio que contém a minha história como Desenvolvedor! 🚀🚀
-- 🐍 Trabalho com TypeScript, C# e Python no Backend
-- 🌱 No momento estou me especializando em NestJS e Prisma.js com uso de Microsserviços✏️💻
-- ⚡ Curiosidades sobre mim: 
-1. Adoro assistir animes <img height='15' width='20' alt='pokemon' src='https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Pok%C3%A9_Ball_icon.svg/768px-Pok%C3%A9_Ball_icon.svg.png' >
-2. Gamer nas horas vagas 🎮
-3. Sou Oficial da reserva do Exército Brasileiro 💣 
-<br>
-  
-##
+Full stack software developer with experience in multiple technologies and architectures. I work with Web development, mainly creating APIs with REST standards.
 
-  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
+Proven experience in languages ​​such as C#, JavaScript/Typescript, Python and PHP. I have already used several frameworks and libraries such as NestJS, ExpressJS, Flask, Django REST and ASP.NET in BackEnd. In addition to experience with React and Vue in FrontEnd. Always try to work following good architectural standards and clean code.
+
+Experience with unit testing and integration testing in C# using XUnit and NUnit. I have also used JestJS for testing APIs with NestJS and ExpressJS.
+
+<!-- <p align="center">
+  <img src="https://cdnb.artstation.com/p/assets/images/images/048/282/733/original/exceptrea-gamerroom-1-revisioned-0.gif" width="600" alt="Gamer Room">
+</p> -->
+
+"Vencer sem correr riscos é triunfar sem glórias!" - Ayrton Senna
+
+## 🌐 Socials:
+
+[![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silveira-marcus/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
 )](https://api.whatsapp.com/send?phone=5551983124465)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/marcus_silveira)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/silveira_marcus_/)
-[![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcus-silveira-46381b201/)
 
-##
+# 🚀 Technologies I'm Studying 🚀:
+
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-%235C2D91.svg?style=for-the-badge&logo=.net&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+ ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+## 📊 GitHub Stats:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcus-silveira&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)
+<br>
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=marcus-silveira&theme=midnight-purple&hide_border=false)
+<br>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcus-silveira&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 
+
+<!-- ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=marcus-silveira&theme=dracula&no-frame=false&no-bg=true&margin-w=4) -->
+
+<!-- ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
